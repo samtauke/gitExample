@@ -1,2 +1,3 @@
-boss,stauke,Tauke,Sam
+role,NetID,FamilyName,GivenName
+boss,sstauke,Tauke,Sam
 employee,kwang432,Wang,Kou
